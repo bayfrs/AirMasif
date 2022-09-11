@@ -90,7 +90,7 @@
  2. [Youtube](https://youtube.com/channel/UCBH4n5bLQv-Anut_jCCNWgA) => Coming soon 
 
 
-## AirMasif <img src='WEB PANEL/img/logo.png' style="height:30px;width:30px;" >
+## AirMasif <img src='WEBPANEL/img/logo.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
  1. Encrypt any file in victim's device
  1. Capture Photo from Camera
