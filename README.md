@@ -106,6 +106,7 @@
   - [Allah Swt.]()
   - [YagamiLight17.](https://github.com/YagamiLight17)
   - [Morsmalleo.](https://github.com/Morsmalleo)
+  - [Prateek-Chaubey](https://github.com/prateek-chaubey)
   - [Github.](https://github.com)
 
 ## DISCLAIMER
