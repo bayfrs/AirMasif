@@ -87,8 +87,11 @@
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
   ### TUTORIAL 
  1. [Blog](https://bayfrs.blogspot.com)
- 2. [Youtube](https://youtube.com/channel/UCBH4n5bLQv-Anut_jCCNWgA) => Coming soon 
-
+ 2. [Discord](
+ 2. [Youtube](https://youtu.be/COyGTXsSaoY) => Coming soon 
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=COyGTXsSaoY "Now in Android: 55")    // Video Link
 
 ## AirMasif <img src='WEBPANEL/img/logo.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
