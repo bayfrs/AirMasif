@@ -88,7 +88,7 @@
   ### TUTORIAL 
  1. [Blog](https://bayfrs.blogspot.com)
  2. [Discord](https://discord.gg/ErzdAHca)
- 2. [Youtube](https://youtu.be/COyGTXsSaoY) => Coming soon
+ 2. [Youtube](https://youtu.be/COyGTXsSaoY)
 
 
 
