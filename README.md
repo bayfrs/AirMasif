@@ -92,7 +92,7 @@
 
 
 
-[![Rick Astley - Never Gonna Give You Up (Official Music Video)](https://youtube-md.vercel.app/dQw4w9WgXcQ/640/360)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Rick Astley - Never Gonna Give You Up (Official Music Video)](https://raw.githubusercontent.com/bayfrs/Database/main/Thumbnail/20220920_232304.jpg)](https://youtu.be/COyGTXsSaoY)
 
 ## AirMasif <img src='WEBPANEL/img/logo.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
