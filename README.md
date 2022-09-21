@@ -88,7 +88,7 @@
   ### TUTORIAL 
  1. [Blog](https://bayfrs.blogspot.com)
  2. [Discord](
- 2. [Youtube](https://youtu.be/COyGTXsSaoY) => Coming soon 
+ 2. [Youtube](https://youtu.be/COyGTXsSaoY) => Coming soon
 [<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=COyGTXsSaoY "Now in Android: 55")
 
 ## AirMasif <img src='WEBPANEL/img/logo.png' style="height:30px;width:30px;" >
