@@ -87,7 +87,7 @@
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
   ### TUTORIAL 
  1. [Blog](https://bayfrs.blogspot.com)
- 2. [Discord](
+ 2. [Discord](https://discord.gg/ErzdAHca)
  2. [Youtube](https://youtu.be/COyGTXsSaoY) => Coming soon
 [<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=COyGTXsSaoY "Now in Android: 55")
 
